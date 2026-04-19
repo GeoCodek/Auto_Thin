@@ -236,3 +236,10 @@ MIT License — see [LICENSE](LICENSE).
 ## Author
 
 Janek Wuigk — Freie Universität Berlin
+
+## Author
+
+Janek Wuigk — Freie Universität Berlin
+
+*Initial versions developed with ChatGPT (GPT-5.1 to GPT-5.4 between November to Februrary 2025/26) (Open AI); consolidated, debugged, and revised with Claude Sonnet 4.6 (Max) (Anthropic).*
+
